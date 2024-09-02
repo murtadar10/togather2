@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "mathjs": "^13.1.1",
+    "nerdamer": "^1.1.13",
+    "symbolic-math": "^0.9.103"
+  },
+  "name": "js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
